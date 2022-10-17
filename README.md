@@ -1,5 +1,5 @@
 # Minhee
-Front-end web developer : Looking for the most efficient way 
+🧐 Front-end web developer : Looking for the most efficient way 
 
 <div align=center> 
   
