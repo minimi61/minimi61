@@ -13,7 +13,9 @@
 
    <img src="https://img.shields.io/badge/CLOUD FROUNT-31A8FF?style=for-the-badge&logo=CLOUD FROUNT&logoColor=white">
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  
+ <br />
+ <br />
+ <br />
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minimi61&show_icons=true&theme=tokyonight)
 
 </div>
