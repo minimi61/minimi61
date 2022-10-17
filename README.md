@@ -1,6 +1,11 @@
 # Minhee
+-----------------------------------------------
+## Front-end web developer
 
 <div align=center> 
+  
+<h3> 🛠 Tech Stacks 🛠 </h3> 
+
   
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
    <img src= "https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"> 
