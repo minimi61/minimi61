@@ -1,6 +1,5 @@
 # Minhee
-
-## Front-end web developer
+Front-end web developer : Looking for the most efficient way 
 
 <div align=center> 
   
